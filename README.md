@@ -8,6 +8,6 @@ These instructions will get you a copy of the project up and running on your loc
 # Running
 Open the index.html and you are good to go.
 # Note
-The website only realizes the layout and some images, and this project is used to practice code ability only.
+The website only realizes the layout and some images. This project is used to practice code ability only.
 # Contributors
 Menglong Yao(Oliver)
